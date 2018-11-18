@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2048
+VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输入码本存储与检索设计", "输入码本存储与检索设计\输入码本存储与检索设计.vcxproj", "{E2D39B24-D73C-4E22-BD1D-0064EB455908}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简繁转换", "..\简繁转换\简繁转换\简繁转换.vcxproj", "{7794174D-C183-467D-B068-D37B723984DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,11 +23,19 @@ Global
 		{E2D39B24-D73C-4E22-BD1D-0064EB455908}.Release|x64.Build.0 = Release|x64
 		{E2D39B24-D73C-4E22-BD1D-0064EB455908}.Release|x86.ActiveCfg = Release|Win32
 		{E2D39B24-D73C-4E22-BD1D-0064EB455908}.Release|x86.Build.0 = Release|Win32
+		{7794174D-C183-467D-B068-D37B723984DE}.Debug|x64.ActiveCfg = Debug|x64
+		{7794174D-C183-467D-B068-D37B723984DE}.Debug|x64.Build.0 = Debug|x64
+		{7794174D-C183-467D-B068-D37B723984DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{7794174D-C183-467D-B068-D37B723984DE}.Debug|x86.Build.0 = Debug|Win32
+		{7794174D-C183-467D-B068-D37B723984DE}.Release|x64.ActiveCfg = Release|x64
+		{7794174D-C183-467D-B068-D37B723984DE}.Release|x64.Build.0 = Release|x64
+		{7794174D-C183-467D-B068-D37B723984DE}.Release|x86.ActiveCfg = Release|Win32
+		{7794174D-C183-467D-B068-D37B723984DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8018DC31-9F65-4993-AC5E-15DFAE922F88}
+		SolutionGuid = {48271CC3-195B-4B6F-B831-F668B143AE2E}
 	EndGlobalSection
 EndGlobal
